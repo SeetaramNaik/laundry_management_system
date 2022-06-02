@@ -18,4 +18,4 @@ Go to browser and type: "localhost/projects" and then you can click on project n
 
 ![Home page](images/HomePage.webp)
 
-<img src='images/HomePage.webp' width=200>
+<img src='images/HomePage.webp' width=500 height=500>
