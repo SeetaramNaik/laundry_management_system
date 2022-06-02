@@ -12,3 +12,8 @@ In my project structure there is **_laundry_management_system.sql_** file, downl
 Go to browser and type: "localhost/projects" and then you can click on project name that you've created. Initial page of this project is index.php is then loaded onto your browser.  
 
 
+## SOME SNAPSHOTS OF THE PROJECT
+
+This is home page
+
+![Home page](Home page.webp)
