@@ -16,4 +16,4 @@ Go to browser and type: "localhost/projects" and then you can click on project n
 
 This is home page
 
-![Home page](HomePage.webp)
+![Home page](images/HomePage.webp)
