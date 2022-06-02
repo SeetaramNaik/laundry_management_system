@@ -17,3 +17,5 @@ Go to browser and type: "localhost/projects" and then you can click on project n
 **Home page**
 
 ![Home page](images/HomePage.webp)
+
+<img src='images/HomePage.webp' width=200>
