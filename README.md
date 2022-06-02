@@ -1,5 +1,5 @@
-# laundry_management_system
-LAUNDRY MANAGEMENT SYSTEM
+# LAUNDRY MANAGEMENT SYSTEM
+
 
 It is a basic PHP project which includes usual database operations like INSERTION, DELETION, UPDATE. This project was done for DBMS mini project.
 
