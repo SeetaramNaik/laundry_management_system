@@ -14,8 +14,29 @@ Go to browser and type: "localhost/projects" and then you can click on project n
 
 ## SOME SNAPSHOTS OF THE PROJECT
 
-**Home page**
-
+1. **Home page**
 ![Home page](images/HomePage.webp)
 
+2. **Admin login page**
+![Admin_Login page](images/AdminLogin.png)
 
+3. **Customer stats in admin panel**
+![Customer_stats](images/CustomersStat.png)
+
+4. **Price setting in admin panel**
+![Price_set](images/PriceSet.png)
+
+5. **Customer details form**
+![Customer_details](images/CustomerDetail.png)
+
+6. **Customer data in admin panel**
+![Customer_data](images/CustomerData.png)
+
+7. **Customer bill in admin panel**
+![Customer_bill](images/CustomerBill.png)
+
+8. **Search page for customer detail**
+![Search_data](images/SearchData.png)
+
+9. **Customer's Laundry status page**
+![Customer_laundry_status](images/CustomerStatus.png)
